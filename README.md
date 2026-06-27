@@ -35,15 +35,14 @@
   <img src="https://raw.githubusercontent.com/almethecapable/almethecapable/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
-<p align="center">
-  <!-- Profile Summary Cards para períodos -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-charts?username=SEU_USUARIO_AQUI&theme=tokyonight" alt="Commit Period Stats" width="100%"/>
-</p>
+
 
 ---
 
-## "Keep Hard"
+##                                               "Keep Hard"
 
 <p align="center">
   <img src="https://lh5.googleusercontent.com/GOAWD6AcpmRzQHxhfU65rTShJBgayGwusZNZz6fXTWcaRG3mgswPOaNc9GEVd1xqkgmE_6h2NQbYZ_8F8ORRhmCoHhVqmpIlRR8ZvupeEscMs6BX0wL9MPL57FMeM6Gawso4v6fF" alt="Deku puxando a geladeira" width="600px">
 </p>
+
+#                                                  KAIZEN 
