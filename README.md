@@ -36,8 +36,8 @@
 </p>
 
 <p align="center">
-  <!-- Profile Summary Cards para períodos (referência image_54bcbe.png) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-charts?username=almethecapable&theme=tokyonight" alt="Commit Period Stats" width="100%"/>
+  <!-- Profile Summary Cards para períodos -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-charts?username=SEU_USUARIO_AQUI&theme=tokyonight" alt="Commit Period Stats" width="100%"/>
 </p>
 
 ---
