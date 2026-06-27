@@ -22,22 +22,22 @@
 
 <p align="center">
   <!-- GitHub Stats e Most Used Languages lado a lado -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=almethecapable&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almethecapable&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180px"/>
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight" alt="Current Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almethecapable&theme=tokyonight" alt="Current Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/almethecapable/almethecapable/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 <p align="center">
   <!-- Profile Summary Cards para períodos (referência image_54bcbe.png) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-charts?username=SEU_USUARIO_AQUI&theme=tokyonight" alt="Commit Period Stats" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-charts?username=almethecapable&theme=tokyonight" alt="Commit Period Stats" width="100%"/>
 </p>
 
 ---
